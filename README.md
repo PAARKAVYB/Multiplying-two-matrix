@@ -41,6 +41,10 @@ B=np.array(l2)
 print("Product of two arrays is:",A*B)
 ```
 
+
+
+
+
 ## OUTPUT:
 ![output](multiply.png)
 
